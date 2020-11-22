@@ -31,6 +31,12 @@ https://www.w3schools.com/python/default.asp
 Python for DevOps:
 https://www.youtube.com/watch?v=CJdZPjzKkds
 
+YAML:
+https://www.codeproject.com/Articles/1214409/Learn-YAML-in-five-minutes
+
+JSON:
+https://www.w3schools.com/js/js_json_intro.asp
+
 Ansible:
 
 
